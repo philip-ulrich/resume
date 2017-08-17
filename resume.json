@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Philip Ulrich",
+    "label": "System Administrator",
+    "picture": "https://807a62c809ac8aeae65f-2ff9186e818ab60bdc952e25abe36dee.ssl.cf1.rackcdn.com/profile.jpg",
+    "email": "philip@exec.tech",
+    "phone": "512-953-7445",
+    "website": "https://exec.tech",
+    "summary": "Hails from Indiana and is presently located in Austin, Texas. Earned Bachelor of Science in Information Technology with a minor in Computer Science. A fast learning, analytical individual with 2+ years experience as a systems administrator at a enterprise-grade hosting company. Provided top-notch support to many Fortune 1000 companies while remaining focused on constantly intaking information and adapting to new technologies. Presently working towards a move into a development position.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "philip-ulrich",
+        "url": "https://github.com/philip-ulrich"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "philip-ulrich",
+        "url": "www.linkedin.com/in/philip-ulrich"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Austin Community College",
+      "position": "Continuing Education Instructor",
+      "website": "",
+      "startDate": "2017-01",
+      "endDate": "",
+      "summary": "Teaching Intermediate Python to students who are looking to continue their education and prepare for the workforce. Creating course material of both the presentation material type as well as assignments/projects. ",
+      "highlights": []
+    },
+    {
+      "company": "Rackspace",
+      "position": "Windows Administrator",
+      "website": "",
+      "startDate": "2015-05",
+      "endDate": "",
+      "summary": "Working in a fast paced environment handling multiple technical issues concurrently. Constantly receiving complicated issues via phone and tickets; handling them to completion. Interfacing with multiple teams to design complex, multifaceted solutions to client problems. Proactively working to improve client experience by finding and preventing matters of contention from surfacing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indiana State University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-08",
+      "endDate": "2015-05",
+      "gpa": "",
+      "courses": [
+        "Intro. to Programming - CS 151 ",
+        "Web Design - CS 170 ",
+        "Computer Science I - CS 201 ",
+        "Computer Science II - CS 202 ",
+        "Program Struct. Design - CS 256 ",
+        "Database Design - ECT 301 ",
+        "Android Programming - ECT 490D "
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "Java",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket"
+      ]
+    },
+    {
+      "name": "Project Tracking",
+      "level": "Intermediate",
+      "keywords": [
+        "Jira",
+        "Asana",
+        "Trello"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Beginner",
+      "keywords": [
+        "Jenkins",
+        "Travis CI"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Expensive Toys",
+      "keywords": [
+        "Drones",
+        "Servers",
+        "Segways",
+        "DSLR Cameras"
+      ]
+    },
+    {
+      "name": "Traveling",
+      "keywords": [
+        "Intracontinental",
+        "Natural Landscapes",
+        "Water Features",
+        "Oddities"
+      ]
+    },
+    {
+      "name": "Learning",
+      "keywords": [
+        "Lynda.com",
+        "Linux Academy",
+        "Cheap Bundles on StackSocial"
+      ]
+    }
+  ],
+  "references": []
+}
