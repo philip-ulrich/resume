@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Philip Ulrich",
-    "label": "System Administrator",
-    "picture": "https://807a62c809ac8aeae65f-2ff9186e818ab60bdc952e25abe36dee.ssl.cf1.rackcdn.com/profile.jpg",
-    "email": "philip@exec.tech",
+    "label": "Cloud Engineer",
+    "picture": "https://philip-ulrich.github.io/resume/profile.jpg",
+    "email": "philip@ulrich.life",
     "phone": "512-953-7445",
-    "website": "https://registry.jsonresume.org/philip-ulrich",
-    "summary": "Hails from Indiana and is presently located in Austin, Texas. Earned Bachelor of Science in Information Technology with a minor in Computer Science. A fast learning, analytical individual with 2+ years experience as a systems administrator at a enterprise-grade hosting company. Provided top-notch support to many companies, both large and small, while remaining focused on constantly intaking information and adapting to new technologies.",
+    "website": "https://philip-ulrich.github.io/resume/",
+    "summary": " BS, Information Technology with a minor in Computer Science. Driven worker with experience in many aspects of technology ranging from consultation to user support to server administration to programing. Currently employed as a Cloud Engineer and seeking opportunities to advance my career.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,11 +29,18 @@
   },
   "work": [
     {
+      "company": "Rackspace",
+      "position": "Cloud Engineer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "summary": "Through both hands-on and consultative approaches, responsible for supporting a multitude of enterprise customers. Daily tasks include provisioning and modifying AWS environments, performing upgrades, and addressing day-to-day customer issues via phone and tickets. Scope varies from the infrastructure all the way down to the OS.",
+      "highlights": []
+    },
+    {
       "company": "Austin Community College",
       "position": "Continuing Education Instructor",
       "website": "",
-      "startDate": "2017-01",
-      "endDate": "",
+      "startDate": "2017-01-01",
       "summary": "Teaching Intermediate Python to students who are looking to continue their education and prepare for the workforce. Creating course material of both the presentation material type as well as assignments/projects. ",
       "highlights": []
     },
@@ -41,8 +48,8 @@
       "company": "Rackspace",
       "position": "Windows Administrator",
       "website": "",
-      "startDate": "2015-05",
-      "endDate": "",
+      "startDate": "2015-05-01",
+      "endDate": "2018-01-01",
       "summary": "Working in a fast paced environment handling multiple technical issues concurrently. Constantly receiving complicated issues via phone and tickets; handling them to completion. Interfacing with multiple teams to design complex, multifaceted solutions to client problems. Proactively working to improve client experience by finding and preventing matters of contention from surfacing.",
       "highlights": []
     }
@@ -53,8 +60,8 @@
       "institution": "Indiana State University",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-08",
-      "endDate": "2015-05",
+      "startDate": "2011-08-01",
+      "endDate": "2015-05-01",
       "gpa": "",
       "courses": [
         "Intro. to Programming - CS 151 ",
@@ -103,16 +110,24 @@
       "level": "Intermediate",
       "keywords": [
         "Jira",
-        "Asana",
         "Trello"
       ]
     },
     {
-      "name": "Continuous Integration",
+      "name": "CI/CD",
       "level": "Beginner",
       "keywords": [
         "Jenkins",
+        "GitHub",
+        "CodeDeploy",
         "Travis CI"
+      ]
+    },
+    {
+      "name": "The Cloud",
+      "level": "Advanced",
+      "keywords": [
+        "AWS Certified Solutions Architect - Associate"
       ]
     }
   ],
@@ -124,7 +139,7 @@
         "Drones",
         "Servers",
         "Segways",
-        "DSLR Cameras"
+        "Mirrorless Cameras"
       ]
     },
     {
