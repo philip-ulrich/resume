@@ -1,140 +1,124 @@
 {
-	"basics": {
-		"name": "Philip Ulrich",
-		"label": "Cloud Engineer",
-		"picture": "https://philip-ulrich.github.io/resume/profile.jpg",
-		"email": "philip@ulrich.life",
-		"phone": "512-953-7445",
-		"website": "https://philip-ulrich.github.io/resume/",
-		"summary": " BS, Information Technology with a minor in Computer Science. Digital nomad, traveling the United States while working full time as a Cloud Engineer specializing in AWS. My whole life is based about technology and during my down time I find myself contributing to FOSS projects I use and working on other projects I find interesting at the time.",
-		"location": {
-			"address": "",
-			"postalCode": "",
-			"city": "Livingston",
-			"countryCode": "US",
-			"region": "Texas"
-		},
-		"profiles": [{
-				"network": "Github",
-				"username": "philip-ulrich",
-				"url": "https://github.com/philip-ulrich"
-			},
-			{
-				"network": "LinkedIn",
-				"username": "philip-ulrich",
-				"url": "https://www.linkedin.com/in/philip-ulrich"
-			}
-		]
-	},
-	"work": [{
-			"company": "Rackspace",
-			"position": "Cloud Engineer",
-			"website": "",
-			"startDate": "2018-01-01",
-			"summary": "Through both hands-on and consultative approaches, responsible for supporting a multitude of enterprise customers. Daily tasks include provisioning and modifying AWS environments, performing upgrades, and addressing day-to-day customer issues via phone and tickets. Scope varies from the infrastructure all the way down to the OS.",
-			"highlights": []
-		},
-		{
-			"company": "Austin Community College",
-			"position": "Continuing Education Instructor",
-			"website": "",
-			"startDate": "2017-01-01",
-			"endDate": "2019-06-01",
-			"summary": "Teaching Intermediate Python to students who are looking to continue their education and prepare for the workforce. Creating course material of both the presentation material type as well as assignments/projects. ",
-			"highlights": []
-		},
-		{
-			"company": "Rackspace",
-			"position": "Windows Administrator",
-			"website": "",
-			"startDate": "2015-05-01",
-			"endDate": "2018-01-01",
-			"summary": "Working in a fast paced environment handling multiple technical issues concurrently. Constantly receiving complicated issues via phone and tickets; handling them to completion. Interfacing with multiple teams to design complex, multifaceted solutions to client problems. Proactively working to improve client experience by finding and preventing matters of contention from surfacing.",
-			"highlights": []
-		}
-	],
-	"volunteer": [],
-	"education": [{
-		"institution": "Indiana State University",
-		"area": "Information Technology",
-		"studyType": "Bachelor",
-		"startDate": "2011-08-01",
-		"endDate": "2015-05-01",
-		"gpa": ""
-	}],
-	"awards": [],
-	"publications": [],
-	"skills": [{
-			"name": "Web Development",
-			"level": "Advanced",
-			"keywords": [
-				"HTML",
-				"CSS",
-				"Javascript"
-			]
-		},
-		{
-			"name": "Programming",
-			"level": "Intermediate",
-			"keywords": [
-				"Python"
-			]
-		},
-		{
-			"name": "Version Control",
-			"level": "Intermediate",
-			"keywords": [
-				"Git",
-				"GitHub",
-				"GitLab"
-			]
-		},
-		{
-			"name": "Project Tracking",
-			"level": "Intermediate",
-			"keywords": [
-				"Jira",
-				"Trello",
-				"GitHub"
-			]
-		},
-		{
-			"name": "CI/CD",
-			"level": "Intermediate",
-			"keywords": [
-				"Circle CI",
-				"GitHub Actions",
-				"CodeDeploy"
-			]
-		}
-	],
-	"languages": [],
-	"interests": [{
-			"name": "Expensive Toys",
-			"keywords": [
-				"Drones",
-				"Servers",
-				"Segways",
-				"Mirrorless Cameras"
-			]
-		},
-		{
-			"name": "Traveling",
-			"keywords": [
-				"Intracontinental",
-				"Natural Landscapes",
-				"Water Features",
-				"Oddities"
-			]
-		},
-		{
-			"name": "Learning",
-			"keywords": [
-				"Lynda.com",
-				"Linux Academy",
-				"Cheap Bundles on StackSocial (and similar)"
-			]
-		}
-	],
-	"references": []
+  "basics": {
+    "name": "Philip Ulrich",
+    "label": "Cloud Engineer",
+    "picture": "https://philip-ulrich.github.io/resume/profile.jpg",
+    "email": "philip@ulrich.life",
+    "phone": "512-953-7445",
+    "website": "https://philip-ulrich.github.io/resume/",
+    "summary": " BS, Information Technology with a minor in Computer Science. Digital nomad, traveling the United States while working full time as a Cloud Engineer specializing in AWS. My whole life is based about technology and during my down time I find myself contributing to FOSS projects I use and working on other projects I find interesting at the time.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Livingston",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "philip-ulrich",
+        "url": "https://github.com/philip-ulrich"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "philip-ulrich",
+        "url": "https://www.linkedin.com/in/philip-ulrich"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Rackspace",
+      "position": "Cloud Engineer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "summary": "Through both hands-on and consultative approaches, responsible for supporting a multitude of enterprise customers. Daily tasks include provisioning and modifying AWS environments, performing upgrades, and addressing day-to-day customer issues via phone and tickets. Scope varies from the infrastructure all the way down to the OS.",
+      "highlights": []
+    },
+    {
+      "company": "Austin Community College",
+      "position": "Continuing Education Instructor",
+      "website": "",
+      "startDate": "2017-01-01",
+      "endDate": "2019-06-01",
+      "summary": "Teaching Intermediate Python to students who are looking to continue their education and prepare for the workforce. Creating course material of both the presentation material type as well as assignments/projects. ",
+      "highlights": []
+    },
+    {
+      "company": "Rackspace",
+      "position": "Windows Administrator",
+      "website": "",
+      "startDate": "2015-05-01",
+      "endDate": "2018-01-01",
+      "summary": "Working in a fast paced environment handling multiple technical issues concurrently. Constantly receiving complicated issues via phone and tickets; handling them to completion. Interfacing with multiple teams to design complex, multifaceted solutions to client problems. Proactively working to improve client experience by finding and preventing matters of contention from surfacing.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indiana State University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2015-05-01",
+      "gpa": ""
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python"]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advanced",
+      "keywords": ["Git", "GitHub", "GitLab"]
+    },
+    {
+      "name": "Project Tracking",
+      "level": "Advanced",
+      "keywords": ["Jira", "Trello", "GitHub"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermediate",
+      "keywords": ["Circle CI", "GitHub Actions", "CodeDeploy"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Expensive Toys",
+      "keywords": ["Drones", "Servers", "Segways"]
+    },
+    {
+      "name": "Traveling",
+      "keywords": [
+        "Intracontinental",
+        "Natural Landscapes",
+        "Water Features",
+        "Oddities"
+      ]
+    },
+    {
+      "name": "Learning",
+      "keywords": [
+        "Linkedin Learning",
+        "A Cloud Guru",
+        "Random Courses from Bundles or on YouTube",
+        "Personal Projects"
+      ]
+    }
+  ],
+  "references": []
 }
